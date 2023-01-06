@@ -25,6 +25,7 @@ NFT 基础合约,Chao Art Dao 在 Polygon 上发布的所有NFT 记录。
 ## 新燃烧合约 (测试中)
 
 0xDC0cf8E947220aE047B87e2c2a39782736421290
+<https://polygonscan.com/address/0xDC0cf8E947220aE047B87e2c2a39782736421290#tokentxnsErc1155>
 在原有燃烧合约的基础上，发放一定的碎片。用于奖池的兑换。
 
 碎片发放分两种:
@@ -41,7 +42,7 @@ NFT 碎片最终流向
 
 ## 碎片兑换奖池 (测试中)
 
-0xE8423E4324a67af4D405584e07c39C69C22C8560
+0x25E91257a2FBeCFE4c67e8799A7e6B25C9E9F751
 
 1. 持有五个 burnner nft 或者 自画像的燃烧用户 通过消耗一定的碎片获取 nft
 2. 碎片兑换完成后，回到奖池合约
